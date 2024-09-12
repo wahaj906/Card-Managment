@@ -26,7 +26,7 @@ Make sure you have the following software installed:
 
 ### Installation
 1. Clone the repository:
-   - git clone https://github.com/Kiran1689/card-app.git
+   - git clone https://github.com/Wahaj906/card-app.git
      
 2. Change into the project directory:
    - cd card-app
